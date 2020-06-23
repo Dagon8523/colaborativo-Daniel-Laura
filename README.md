@@ -18,10 +18,10 @@ se trabajara un archivo .md(mark down) al tiempo.
 3. Resolver cualquier cambio que se resalto
 
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
-[github.com/Laura20023](https://github.com//)
+[github.com/Laura20023](https://github.com/Laura20023/)
 
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
-[github.com/Dagon8523](https://github.com/dulfrey/)
+[github.com/Dagon8523](https://github.com/Dagon8523/)
 
 
 ![alt text](https://internerdz.com/wp-content/uploads/2016/03/PROGRAMACION-VIDEOJUEGOS_opt.png "Logo Title Text 1")
