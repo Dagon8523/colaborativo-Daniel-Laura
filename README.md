@@ -26,6 +26,6 @@ se trabajara un archivo .md(mark dow) al tiempo.
 [github.com/Dagon8523](https://github.com/dulfrey/)
 
 
-![alt text](img/imagen.png)
+
 
 
