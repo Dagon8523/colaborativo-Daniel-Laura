@@ -7,10 +7,17 @@ se trabajara un archivo .md(mark dow) al tiempo.
 
 ##Objetivos##
 
-+ Realizar modificaciones al mismo archivo por medio de git
-+ Corregir conflictos de codigo
-+ Hacer git merge a la rama master
+1. Realizar modificaciones al mismo archivo por medio de git
+2. Corregir conflictos de codigo
+3. Hacer git merge a la rama master
 
-![alt text](http://url/to/img.png)
+![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
+[github.com/Laura20023](https://github.com//)
+
+![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
+[github.com/Dagon8523](https://github.com/dulfrey/)
+
+
+![alt text](img/imagen.png)
 
 
