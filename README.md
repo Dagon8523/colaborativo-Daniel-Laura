@@ -1,11 +1,11 @@
-# COLABORATIVO LAURA -- DANIEL #
-# :computer:
+# COLABORATIVO :alien:LAURA -- DANIEL :computer: #
+
 
 
 Proyecto de desarrollo web en con trabajo en equipo
 se trabajara un archivo .md(mark down) al tiempo.
 
-# Desarrollo Proyecto #
+# TALLER GIT COLABORATIVO #
 
 1. Colocar en orden ciertos objetivos
 2. Agregar una imagen adecuada a la actividad
