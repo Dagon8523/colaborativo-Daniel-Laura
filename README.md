@@ -1,17 +1,9 @@
-# COLABORATIVO :alien:LAURA -- DANIEL :computer: #
-
-
-
-Proyecto de desarrollo web en con trabajo en equipo
-se trabajara un archivo .md(mark down) al tiempo.
+# REPOSITORIO :alien:LAURA -- DANIEL :computer: #
 
 # TALLER GIT COLABORATIVO #
 
-1. Colocar en orden ciertos objetivos
-2. Agregar una imagen adecuada a la actividad
-3. Resolver cualquier cambio que se resalto
-
-
+Proyecto de desarrollo web en con trabajo en equipo
+se trabajara un archivo .md(mark down) al tiempo.
 
 ## Objetivos ##
 
@@ -30,7 +22,6 @@ se trabajara un archivo .md(mark down) al tiempo.
 
 ![github](http://i.imgur.com/0o48UoR.png (github icon with padding))
 [github.com/Dagon8523](https://github.com/Dagon8523/)
-
 
 ![alt text](https://internerdz.com/wp-content/uploads/2016/03/PROGRAMACION-VIDEOJUEGOS_opt.png "Logo Title Text 1")
 
